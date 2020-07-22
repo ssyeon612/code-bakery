@@ -19,3 +19,21 @@
   - 회원가입
   - 아이디, 비밀번호 찾기
 * * *
+✏️ _QnAController, Answer & Question & QComment (Biz, Dao, Dto)_
+- qna.jsp & qna_write.jsp & qna_update.jsp : 질문 게시판 목록, 작성, 수정
+  - 게시글 CRUD
+  - 게시글 페이징
+  - 해시태그별 조회
+  - 
+- qna_detail.jsp : 질문 답변 상세 페이지
+  - 댓글 및 대댓글 CRUD
+  - 답변 CRUD
+  
+- qna_addNonUser.jsp & qna_nonUserAnswer.jsp : 비회원 답변 달기
+  
+✏️ signup.jsp & mypage_chkPw.jsp & mypage_modify.jsp : 회원가입 및 회원정보 수정
+  - 회원가입 유효성 검사 적용
+  - cool SMS API를 이용항 문자 전송 서비스
+  
+✏️ find_Id.jsp & find_Pw.jsp : 아이디, 비밀번호 찾기
+
