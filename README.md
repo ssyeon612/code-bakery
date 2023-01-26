@@ -6,7 +6,7 @@
   - 개발기간: 2020. 06. 11 ~ 2020. 07. 07
   - 팀 구성원: 6명
   - 역할: Project Engineer (스토리 보드 제작, DB 및 Class 설계 총괄)
-  - 사용 기불 및 개발 환경
+  - 사용 기술 및 개발 환경
     - Language: Java, Javascript, HTML5, CSS3
     - Framework: Spring, Mybatis, jQuery, Bootstrap
     - DBMS: Oracle
